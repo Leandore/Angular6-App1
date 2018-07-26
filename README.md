@@ -1,6 +1,11 @@
 # Ng6
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. This is a demo from https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. This is a demo from 
+
+TODO List
+https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
+
 
 ## Development server
 
