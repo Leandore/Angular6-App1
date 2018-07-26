@@ -11,6 +11,8 @@ https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11
 
 https://medium.com/@SirMaxxx/angular-6-creating-a-shareable-control-library-6a27f0ebe5c2
 
+https://medium.com/@suwigyarathore/write-your-own-library-in-angular-6-741d44d4a356
+
 
 ## Development server
 
