@@ -2,9 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. This is a demo from 
 
-TODO List
+## TODO list
 https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+
 https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
+
 https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11
 
 
